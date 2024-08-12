@@ -1,0 +1,31 @@
+.main{
+    display: flex;
+    background-color: linen;
+    margin: 0%;
+    padding: 0%;
+}
+
+.main h4,h3,p {
+    margin: 10px;
+} 
+
+.main h4{
+    color: gray;
+    font-weight: bold;
+}
+
+.main p{
+    color: blueviolet;
+}
+
+.main img{
+    width: 300px;
+    padding: 10%;
+    position: relative;
+    right: 20%;
+
+}
+
+.mainfirst{
+    padding: 10%;
+}

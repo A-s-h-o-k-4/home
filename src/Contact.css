@@ -1,0 +1,51 @@
+.contact{
+    background-color: linen;
+}
+
+.maincontact h4{
+    color: gray;
+    padding: 15px 10px 0px 10px;
+}
+
+.maincontact h2{
+    text-align: start;
+}
+
+.iconfoot{
+    position: relative;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    left: 10px;
+    padding-top: 5px;
+}
+
+.footer{
+    position: relative;
+    bottom: 0%;
+    padding-bottom: 20px;
+    left: 5%;
+    padding-top: 30px;
+}
+
+.maincontact,.iconfoot{
+    padding-left: 5%;
+}
+
+.linked{
+    color: #0077B5;
+    font-size: 25px;
+}
+
+.git{
+    color: #2b3137;
+    font-size: 25px;
+}
+
+.insta{
+    color: #E1306C;
+    font-size: 25px;
+}
+
+

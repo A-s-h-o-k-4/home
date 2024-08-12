@@ -1,0 +1,21 @@
+.pro{
+    background-color: #E7717D;
+    width: 250px;
+    border-radius: 10px;
+}
+
+
+.pro img{
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.minipro{
+    padding: 10px;   
+} 
+
+.minipro a{
+    text-decoration: none;
+}
+

@@ -1,0 +1,37 @@
+.about{
+    display: flex;
+    background-color: aquamarine;
+}
+
+.about h4,h2,p {
+    margin: 10px;
+
+} 
+
+.about h4{
+    color: gray;
+    font-weight: bold;
+}
+
+.about p{
+    color: blueviolet;
+}
+
+.about img{
+    width: 250px;
+    position: relative;
+    top: 25%;
+    left: 20%;
+    border-radius: 20px;
+    
+}
+
+.aboutmain{
+    padding: 10%;
+    padding-right: 10px;
+}
+
+.aboutmain h2{
+    position: relative;
+    text-align: start;
+}

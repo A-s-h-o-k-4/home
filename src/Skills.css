@@ -1,0 +1,21 @@
+.skills{
+    background-color: linen;
+    padding: 5%;
+}
+
+.skills h4,h2{
+    text-align: center;
+}
+
+.skills h4{
+    color: gray;
+    font-weight: bold;
+}
+
+.skills img{
+    padding-right: 40px;
+    width: 125px;
+    position: relative;
+    left: 10%;
+    top: 15px;
+}

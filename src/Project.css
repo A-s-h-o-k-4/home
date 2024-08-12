@@ -1,0 +1,19 @@
+.promain{
+    background-color: aquamarine;
+}
+
+.project h4{
+    text-align: center;
+    color: grey;
+}
+
+.mainproject{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 50px;
+}
+
+.project{
+    padding-top: 40px;
+}
