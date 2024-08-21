@@ -8,7 +8,7 @@ function App() {
         <h3>Ashok Naveen Kumar</h3>
         <nav className='naviname'>
           <ul>
-            <li><a href='#'>Home</a></li>
+            <li><a href='#home'>Home</a></li>
             <li><a href='#'>About</a></li>
             <li><a href='#'>Skill</a></li>
             <li><a href='#'>Project</a></li>
