@@ -4,7 +4,7 @@ import Miniproject from './Miniproject'
 
 function Project() {
     return (
-        <div className='promain'>
+        <div className='promain'id='project'>
             <div className='project'>
             <h4>Project</h4>
             <h2>What I have made?</h2>
