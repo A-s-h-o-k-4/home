@@ -21,7 +21,7 @@ function Contact() {
             </div>
 
             <div className='footer'>
-                <h5>Copyright@2024. Developed by Ashok Naveen Kumar</h5>
+                <h5>Copyright©2024. Developed by Ashok Naveen Kumar</h5>
             </div>
         </div>
     )
