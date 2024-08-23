@@ -1,12 +1,11 @@
 *{
-  margin:70px  0 0 0;
+  margin: 0;
   padding: 0;
 }
 
 .navi{
   display: flex;
   flex-wrap:wrap;
-  margin-top:0;
   justify-content: space-between;
   background-color: lightsalmon;
 }
