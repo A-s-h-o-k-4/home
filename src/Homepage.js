@@ -13,8 +13,8 @@ function Homepage() {
           this website tell me about my skills and
           knowledge.</p>
       </div>
-      <div>
-        <img src='./mypic.jpg' alt='my pic'></img>
+      <div className='img1'>
+        <img src='./mypic.jpg' className='img2' alt='my pic'></img>
       </div>
     </div>
   )

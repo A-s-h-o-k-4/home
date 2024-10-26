@@ -1,7 +1,11 @@
-import React from 'react'
-import './App.css'
+import React from 'react';
+import './App.css';
 
 function App() {
+// function Open(){
+//    let nav=document.getElementsByClassName("naviname")
+//    nav.style.display="block"
+// }
   return (
     <div className='navigation'>
       <div className='navi'>
@@ -15,6 +19,9 @@ function App() {
             <li><a href='#contact'>Contact</a></li>
           </ul>
         </nav>
+        {/* <div>
+          <img onClick={()=>{Open()}} src='./menu.png'></img>
+        </div> */}
       </div>
     </div>
   )

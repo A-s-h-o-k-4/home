@@ -35,3 +35,14 @@
     position: relative;
     text-align: start;
 }
+
+@media(max-width:768px){
+    .about{
+        flex-direction: column;
+    }
+    .img1{
+        position: relative;
+        margin-left: 10%;
+        margin-top: 25px;
+    }
+}

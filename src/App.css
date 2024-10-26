@@ -38,3 +38,8 @@
   top: 0%;
   z-index: 999;
 }
+@media(max-width:768px){
+  .naviname{
+    display: none;
+  }
+}

@@ -29,3 +29,19 @@
 .mainfirst{
     padding: 10%;
 }
+
+@media(max-width:768px){
+    .main{
+        flex-direction: column;
+    }
+    .img1{
+        position: relative;
+        margin: auto;
+        padding: auto;
+    }
+    .img2{
+        position: relative;
+        margin-left: 15%;
+        margin-top: -20%;
+    }
+}
